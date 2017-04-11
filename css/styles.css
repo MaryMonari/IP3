@@ -1,0 +1,32 @@
+body {
+  margin: 1px solid white;
+  border: 3px solid black;
+  padding: 1px solid white;
+  background-color: gainsboro;
+}
+h1 {
+  font-weight: 500;
+}
+.col-xs-12 {
+  background-color: moccasin;
+  color: black;
+  height: 100px;
+  text-align: center;
+  border-bottom: 20px solid gainsboro;
+}
+
+.col-xs-3 {
+  background-color: darkseagreen;
+  color: black;
+  height: 600px;
+  width: 100%;
+}
+ h3 {
+  color: moccasin;
+}
+.col-xs-9 {
+  background-color: gainsboro;
+  color: black;
+  height: 600px;
+  width: 100%;
+}
