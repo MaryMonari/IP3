@@ -24,8 +24,8 @@ h1 {
   color: white;
   height: 400px;
   width: 200px;
-  top: 50px;
-  left: 350px;
+  top: 10px;
+  left: 700px;
 
 }
  h3 {
@@ -37,7 +37,7 @@ h1 {
   left: 150px;
   background-color:tomato;
   color: black;
-  height: 600px;
+  height: 800px;
   width: 200px;
   text-align: justify;
 
