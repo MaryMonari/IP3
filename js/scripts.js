@@ -1,3 +1,4 @@
+// Business-Logic
 $(document).ready(function() {
   $("#mine").submit(function(event){
     var number1 =parseInt($("#enter").val());
@@ -17,6 +18,7 @@ $(document).ready(function() {
       }
     }
 
+// User-interface Logic
     event.preventDefault();
   });
 
