@@ -1,6 +1,6 @@
-**#PING-PONG GAME**
+**# PING-PONG GAME**
 
-##A simple Web-based Application of a Ping-Pong Number GAME
+## A simple Web-based Application of a Ping-Pong Number GAME
 
 ### Brief Description
 
